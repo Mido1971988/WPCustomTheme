@@ -1,0 +1,15 @@
+/*
+Theme Name: MyCustomTheme
+Text Domain: MyCustomTheme
+Version: 1.0
+Description: First , learn 
+Tags: First , learn 
+Author: Mohamedsoliman88
+*/
+p {
+  color: red;
+}
+.logo {
+  width: 40px;
+  height: 40px;
+}
